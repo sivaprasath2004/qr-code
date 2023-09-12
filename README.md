@@ -18,7 +18,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
  
 
-## links <br>
+## links 💫 <br>
 <ul>
   <li><a href="https://sivaprasath2004.github.io/qr-code/"> Click Here</a></li>
 </ul>
