@@ -78,6 +78,11 @@ We provide templates to help you share your solution once you've submitted it on
 
 The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
 
+## links <br>
+<ul>
+  <li><a href="https://sivaprasath2004.github.io/qr-code/"> Click Here</a></li>
+</ul>
+<br>
 ## Got feedback for us?
 
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
